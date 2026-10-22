@@ -1,8 +1,26 @@
+# Python virtual environments
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+.env.*
+*.env
+!.env.example
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Misc / testing scratch
 hello.py
 hello-world/*
-.venv/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.idea/
