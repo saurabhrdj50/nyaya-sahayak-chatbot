@@ -1,14 +1,10 @@
 [project]
-name = "lawglance"
+name = "nyaya-sahayak"
 version = "0.1.0"
-description = "Your AI-Powered Legal Assistan"
-authors = [{name = "https://lawglance.com/" }]
+description = "AI-Powered Legal Awareness Assistant for Indian Law"
+authors = [{name = "Saurabh Gupta", email = "saurabh4k62@gmail.com"}]
 maintainers = [
-    {name = "Sreejith G", email = "gsreejith828@gmail.com"},
-    {name = "Midhun M I", email = "midhunmi2011@gmail.com"},
-    {name = "Meenu Dev", email = "mee.dev03@gmail.com"},
-    {name = "Brijesh", email = "brijesh@curvelogics.com"},
-    {name = "Haritha C", email = "harithac.contactmail@gmail.com"},
+    {name = "Saurabh Gupta", email = "saurabh4k62@gmail.com"},
 ]
 readme = "README.md"
 requires-python = ">=3.11"

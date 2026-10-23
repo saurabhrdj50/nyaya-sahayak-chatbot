@@ -163,7 +163,6 @@ Nyaya-Sahayak_Chatbot/
 
 ## 🙏 Acknowledgements
 
-- **Vikas Gupta** for initial prototype development.
-- Architectural inspiration and foundation from the **Lawglance** project and its original authors (*Sreejith G, Midhun M I, Meenu Dev, Brijesh, Haritha C*).
+- Built with modern open-source technologies including Python, Streamlit, LangChain, and Groq Cloud.
 - [Groq](https://groq.com/) for fast LLM inference infrastructure.
 - [LangChain](https://www.langchain.com/) and [Streamlit](https://streamlit.io/) open-source communities.
